@@ -85,22 +85,3 @@ while power:
                 money = coins - MENU[choice]['cost']
                 print(f"Here is your ${money:.2f} in change.")
                 print(f"Here is your {choice} \u2615 Enjoy!")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
